@@ -1,6 +1,6 @@
 # homebrew-gang
 
-gang installation fro homebrew.
+gang installation for homebrew.
 
 ## Installation
 
