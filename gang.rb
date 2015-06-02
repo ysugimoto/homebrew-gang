@@ -1,4 +1,4 @@
-require "fomula"
+require "formula"
 
 class Gang < Formula
   homepage ""
